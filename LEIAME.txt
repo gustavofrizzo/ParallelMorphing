@@ -1,0 +1,10 @@
+
+Fluxo de execução:
+
+	1: Setar as imagens que serão utilizadas no script "cria_pontos.py"
+	2: Executar o script "cria_pontos.py"
+	3: Realizar a marcação de Pontos
+	4: Imprimir os dados necessários para o morfismo clicando no botão "Imprimir Tudo"
+	5: Salvar os dados em um script no formato de "teste1.py"
+	6: Executar o script criado no passo 5
+	7: As imagens serão salvas na pasta "results"
